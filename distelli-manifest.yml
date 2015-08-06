@@ -17,6 +17,7 @@ bmcgehee/NodeExpress:
 
   PostInstall:
     - echo "Begin PostInstall"
+    - npm install
 
   Exec:
     - echo "Begin Exec"
