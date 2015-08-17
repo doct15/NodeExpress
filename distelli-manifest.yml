@@ -12,6 +12,8 @@ bmcgehee/NodeExpress:
     - sudo apt-get install npm -y
     - npm install
     - npm test
+    - hostname
+    - uname -a
     - sudo touch /home/bmcgehee/THIS_IS_A_TEST
 
   PreInstall:
